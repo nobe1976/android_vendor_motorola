@@ -25,8 +25,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/bin/mdm_helper:system/bin/mdm_helper \
     vendor/motorola/shamu/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
     vendor/motorola/shamu/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/motorola/shamu/proprietary/bin/mpdecision:system/bin/mpdecision \
-    vendor/motorola/shamu/proprietary/bin/netmgrd:system/bin/netmgrd \
+    vendor/motorola/shamu/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
+    vendor/motorola/shamu/proprietary/vendor/bin/netmgrd:system/bin/vendor/netmgrd \
     vendor/motorola/shamu/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/motorola/shamu/proprietary/bin/qmi_motext_hook:system/bin/qmi_motext_hook \
     vendor/motorola/shamu/proprietary/bin/qmuxd:system/bin/qmuxd \
@@ -34,7 +34,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/shamu/proprietary/bin/radish:system/bin/radish \
     vendor/motorola/shamu/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/motorola/shamu/proprietary/bin/tcmd_mini:system/bin/tcmd_mini \
-    vendor/motorola/shamu/proprietary/bin/thermal-engine:system/vendor/bin/thermal-engine \
+    vendor/motorola/shamu/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/motorola/shamu/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/motorola/shamu/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/motorola/shamu/proprietary/bin/usbhub_init:system/bin/usbhub_init \
